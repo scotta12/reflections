@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    YYYYYYYYYYYYYYYYYYYYYY
+    When I want to try and break stuff without worrying about it ruining everything that others are working on.
